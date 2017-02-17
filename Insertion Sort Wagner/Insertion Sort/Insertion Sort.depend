@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473269284 source:c:\users\wagner\desktop\insertion sort wagner\insertion sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

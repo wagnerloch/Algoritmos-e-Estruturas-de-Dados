@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476389570 source:d:\google drive\engenharia de computação\semestre 3\algoritmos e estrutura de dados 1\tarefas\wagner loch\agenda sem variaveis\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

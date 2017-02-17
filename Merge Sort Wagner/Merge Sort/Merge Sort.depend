@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473546894 source:c:\users\wagner\desktop\merge sort wagner\merge sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
