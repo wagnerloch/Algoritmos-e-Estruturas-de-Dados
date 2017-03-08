@@ -119,7 +119,7 @@ void excluir (AgendaPonteiro *sPtr) {
     else {
         anteriorPtr = *sPtr;
         atualPtr = (*sPtr)->proximoPonteiro;
-        while (atualPtr != NULL && (strcmp(nomeTemp, (*sPtr)->nome) == 0)) { //?
+        while (atualPtr != NULL && (stricmp(nomeTemp, (*sPtr)->nome) != 0)) { //?
             anteriorPtr = atualPtr;
             atualPtr = atualPtr->proximoPonteiro;
         }
